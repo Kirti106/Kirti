@@ -1,5 +1,6 @@
 # Hey There 
 I'm Kirti
+
 I’m a beginner programmer learning Python and building small projects to strengthen my fundamentals. I love turning ideas into code and learning something new every day.
 # Here are some tools I use
 <img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/546b0b79-bca7-49de-b42a-7979720bc541" />  <img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/db99e80e-4bcb-466b-bc46-4881d2747ecf" />  <img width="68" height="28" alt="image" src="https://github.com/user-attachments/assets/9c3ea745-6fd4-49ec-9461-473805e47210" />
