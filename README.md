@@ -1,5 +1,7 @@
 # Hey There 
 I'm Kirti
+Branch- B.Tech Computer Science with AI and ML
+Year- 1st year
 
 I’m a beginner programmer learning Python and building small projects to strengthen my fundamentals. I love turning ideas into code and learning something new every day.
 # Here are some tools I use
